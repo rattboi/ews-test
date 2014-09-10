@@ -1,0 +1,5 @@
+#YAML Config 
+server: https://SOMESERVER/ews/exchange.asmx 
+user: USER
+pass: MyAwesomePassword
+domain: MYDOMAIN
